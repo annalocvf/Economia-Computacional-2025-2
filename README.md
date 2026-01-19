@@ -1,1 +1,3 @@
 # Economia-Computacional-2025-2
+
+Este repositório reúne os materiais do seminário “Economia Computacional e Dados Públicos”, cujo objetivo é demonstrar como ferramentas computacionais podem ampliar a acessibilidade, produtividade e reprodutibilidade na análise de bases públicas. A aplicação utiliza Python 3 no Google Colab para carregar, tratar e visualizar dados da EPE (Empresa de Pesquisa Energética), com apoio das bibliotecas Pandas, NumPy e Matplotlib. O projeto destaca a importância de disponibilizar dados e códigos em plataformas como o GitHub, fortalecendo a transparência metodológica e facilitando a replicação de análises.
